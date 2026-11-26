@@ -1,0 +1,19 @@
+{
+  "settings_version": "0.0.8",
+  "datasets_dir": "C:\\Users\\datasets",
+  "weights_dir": "C:\\Users\\khosy\\weights",
+  "runs_dir": "C:\\Users\\khosy\\runs",
+  "uuid": "adaec7f5fa7649e6006f05ba224fd7272490fac50a8d0a195f4d70763818ebca",
+  "sync": true,
+  "api_key": "",
+  "openai_api_key": "",
+  "clearml": true,
+  "comet": true,
+  "dvc": true,
+  "mlflow": true,
+  "raytune": true,
+  "tensorboard": false,
+  "wandb": false,
+  "vscode_msg": true,
+  "openvino_msg": true
+}

@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+*.db
+*.sqlite3
+uploads/*
+!uploads/.gitkeep
+ml_models/*
+!ml_models/.gitkeep
+!ml_models/README.md
+.pytest_cache/
+.idea/
+.vscode/
+
